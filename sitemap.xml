@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>http://luocong.net/blog/vim/vim-commands/</loc>
-    <lastmod>2016-10-21T10:01:12.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://luocong.net/categories/index.html</loc>
     <lastmod>2016-10-21T10:01:12.000Z</lastmod>
   </url>
@@ -22,7 +17,12 @@
   </url>
   
   <url>
-    <loc>http://luocong.net/blog/weixin/weixin-dev-base/</loc>
+    <loc>http://luocong.net/404.html</loc>
+    <lastmod>2016-10-21T10:01:12.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luocong.net/blog/vim/vim-commands/</loc>
     <lastmod>2016-10-21T10:01:12.000Z</lastmod>
   </url>
   
@@ -32,28 +32,8 @@
   </url>
   
   <url>
-    <loc>http://luocong.net/404.html</loc>
+    <loc>http://luocong.net/blog/weixin/weixin-dev-base/</loc>
     <lastmod>2016-10-21T10:01:12.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luocong.net/app/index.html</loc>
-    <lastmod>2016-09-22T02:41:30.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luocong.net/app/Meeting.hyperesources/HYPE-530.thin.min.js</loc>
-    <lastmod>2016-09-21T02:02:25.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luocong.net/app/Meeting.hyperesources/meeting_hype_generated_script.js</loc>
-    <lastmod>2016-09-21T02:02:25.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://luocong.net/app/Meeting.hyperesources/HYPE-530.full.min.js</loc>
-    <lastmod>2016-09-21T02:02:25.000Z</lastmod>
   </url>
   
   <url>
